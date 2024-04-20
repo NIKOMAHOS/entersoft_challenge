@@ -1,0 +1,4 @@
+Online Retailers had 520 orders and 3683 order lines.The quantity in pieces was 5160, and the quantity in boxes was 746.The total amount for Online Retailers was 3642673 with a fulfillment rate of 98%.
+Retail Stores had 1170 orders and 4150 order lines.The quantity in pieces was 4632, and the quantity in boxes was 667.The total amount for Retail Stores was 3513708 with a fulfillment rate of 97%.
+Web Site had 270 orders and 350 order lines.The quantity in pieces was 396, and the quantity in boxes was 56.The total amount for Web Site was 284790 with a fulfillment rate of 99%.
+Wholesalers had 355 orders and 5100 order lines.The quantity in pieces was 6783, and the quantity in boxes was 956.The total amount for Wholesalers was 5328397 with a fulfillment rate of 96%.

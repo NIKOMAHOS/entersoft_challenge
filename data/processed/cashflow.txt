@@ -1,0 +1,6 @@
+The debit of the week is 300000.
+The credit of the week is 450000.
+The balance of the week is 150000.
+The inflows forecast of the week is 15000000.
+The outflows forecast of the week is 9000000.
+The projected balance of the week is 23850000.

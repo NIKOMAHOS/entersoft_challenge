@@ -1,0 +1,539 @@
+On 15/04/2024, the revenue for Acoustic Drums was 195870.
+On 15/04/2024, the revenue for Acoustic Guitars was 90500.
+On 15/04/2024, the revenue for Audio Interfaces was 18100.
+On 15/04/2024, the revenue for Bass Guitars was 100150.
+On 15/04/2024, the revenue for Classical Guitars was 48280.
+On 15/04/2024, the revenue for Digital Pianos was 151500.
+On 15/04/2024, the revenue for DJ Equipment was 72450.
+On 15/04/2024, the revenue for Drum Kits was 91100.
+On 15/04/2024, the revenue for Electric Guitars was 144010.
+On 15/04/2024, the revenue for Flutes was 60000.
+On 15/04/2024, the revenue for Guitar Pedals was 25860.
+On 15/04/2024, the revenue for Harmonicas was 5680.
+On 15/04/2024, the revenue for Keyboards was 147200.
+On 15/04/2024, the revenue for Live Sound Equipment was 79300.
+On 15/04/2024, the revenue for Microphones was 29190.
+On 15/04/2024, the revenue for MIDI Controllers was 76940.
+On 15/04/2024, the revenue for Music Production Software was 31714.
+On 15/04/2024, the revenue for Orchestral Strings was 25990.
+On 15/04/2024, the revenue for Percussion Accessories was 18430.
+On 15/04/2024, the revenue for Pianos was 0.
+On 15/04/2024, the revenue for Saxophones was 303700.
+On 15/04/2024, the revenue for Studio Monitors was 21840.
+On 15/04/2024, the revenue for Synthesizers was 193560.
+On 15/04/2024, the revenue for Trumpets was 128100.
+On 15/04/2024, the revenue for Ukuleles was 53000.
+On 15/04/2024, the revenue for Violins was 22280.
+On 16/04/2024, the revenue for Acoustic Drums was 149440.
+On 16/04/2024, the revenue for Acoustic Guitars was 130000.
+On 16/04/2024, the revenue for Audio Interfaces was 31470.
+On 16/04/2024, the revenue for Bass Guitars was 107050.
+On 16/04/2024, the revenue for Classical Guitars was 46540.
+On 16/04/2024, the revenue for Digital Pianos was 114350.
+On 16/04/2024, the revenue for DJ Equipment was 108500.
+On 16/04/2024, the revenue for Drum Kits was 62500.
+On 16/04/2024, the revenue for Electric Guitars was 114960.
+On 16/04/2024, the revenue for Flutes was 68900.
+On 16/04/2024, the revenue for Guitar Pedals was 21650.
+On 16/04/2024, the revenue for Harmonicas was 5939.
+On 16/04/2024, the revenue for Keyboards was 273150.
+On 16/04/2024, the revenue for Live Sound Equipment was 106750.
+On 16/04/2024, the revenue for Microphones was 54630.
+On 16/04/2024, the revenue for MIDI Controllers was 71570.
+On 16/04/2024, the revenue for Music Production Software was 22111.
+On 16/04/2024, the revenue for Orchestral Strings was 13580.
+On 16/04/2024, the revenue for Percussion Accessories was 21740.
+On 16/04/2024, the revenue for Pianos was 0.
+On 16/04/2024, the revenue for Saxophones was 219300.
+On 16/04/2024, the revenue for Studio Monitors was 25410.
+On 16/04/2024, the revenue for Synthesizers was 202310.
+On 16/04/2024, the revenue for Trumpets was 102850.
+On 16/04/2024, the revenue for Ukuleles was 56490.
+On 16/04/2024, the revenue for Violins was 32440.
+On 17/04/2024, the revenue for Acoustic Drums was 123730.
+On 17/04/2024, the revenue for Acoustic Guitars was 77650.
+On 17/04/2024, the revenue for Audio Interfaces was 22300.
+On 17/04/2024, the revenue for Bass Guitars was 101250.
+On 17/04/2024, the revenue for Classical Guitars was 50250.
+On 17/04/2024, the revenue for Digital Pianos was 174950.
+On 17/04/2024, the revenue for DJ Equipment was 129250.
+On 17/04/2024, the revenue for Drum Kits was 89100.
+On 17/04/2024, the revenue for Electric Guitars was 108960.
+On 17/04/2024, the revenue for Flutes was 93300.
+On 17/04/2024, the revenue for Guitar Pedals was 16700.
+On 17/04/2024, the revenue for Harmonicas was 5101.
+On 17/04/2024, the revenue for Keyboards was 221050.
+On 17/04/2024, the revenue for Live Sound Equipment was 138700.
+On 17/04/2024, the revenue for Microphones was 55280.
+On 17/04/2024, the revenue for MIDI Controllers was 58610.
+On 17/04/2024, the revenue for Music Production Software was 39863.
+On 17/04/2024, the revenue for Orchestral Strings was 13500.
+On 17/04/2024, the revenue for Percussion Accessories was 15080.
+On 17/04/2024, the revenue for Pianos was 0.
+On 17/04/2024, the revenue for Saxophones was 318300.
+On 17/04/2024, the revenue for Studio Monitors was 31650.
+On 17/04/2024, the revenue for Synthesizers was 221610.
+On 17/04/2024, the revenue for Trumpets was 100850.
+On 17/04/2024, the revenue for Ukuleles was 57805.
+On 17/04/2024, the revenue for Violins was 25650.
+On 18/04/2024, the revenue for Acoustic Drums was 213170.
+On 18/04/2024, the revenue for Acoustic Guitars was 65300.
+On 18/04/2024, the revenue for Audio Interfaces was 16260.
+On 18/04/2024, the revenue for Bass Guitars was 137100.
+On 18/04/2024, the revenue for Classical Guitars was 26830.
+On 18/04/2024, the revenue for Digital Pianos was 116050.
+On 18/04/2024, the revenue for DJ Equipment was 63850.
+On 18/04/2024, the revenue for Drum Kits was 106300.
+On 18/04/2024, the revenue for Electric Guitars was 111450.
+On 18/04/2024, the revenue for Flutes was 69900.
+On 18/04/2024, the revenue for Guitar Pedals was 24510.
+On 18/04/2024, the revenue for Harmonicas was 4449.
+On 18/04/2024, the revenue for Keyboards was 258900.
+On 18/04/2024, the revenue for Live Sound Equipment was 87250.
+On 18/04/2024, the revenue for Microphones was 36420.
+On 18/04/2024, the revenue for MIDI Controllers was 70040.
+On 18/04/2024, the revenue for Music Production Software was 48235.
+On 18/04/2024, the revenue for Orchestral Strings was 19960.
+On 18/04/2024, the revenue for Percussion Accessories was 25100.
+On 18/04/2024, the revenue for Pianos was 0.
+On 18/04/2024, the revenue for Saxophones was 205800.
+On 18/04/2024, the revenue for Studio Monitors was 27000.
+On 18/04/2024, the revenue for Synthesizers was 161230.
+On 18/04/2024, the revenue for Trumpets was 109600.
+On 18/04/2024, the revenue for Ukuleles was 89550.
+On 18/04/2024, the revenue for Violins was 38870.
+On 19/04/2024, the revenue for Acoustic Drums was 115150.
+On 19/04/2024, the revenue for Acoustic Guitars was 73850.
+On 19/04/2024, the revenue for Audio Interfaces was 24900.
+On 19/04/2024, the revenue for Bass Guitars was 118900.
+On 19/04/2024, the revenue for Classical Guitars was 30230.
+On 19/04/2024, the revenue for Digital Pianos was 145600.
+On 19/04/2024, the revenue for DJ Equipment was 67450.
+On 19/04/2024, the revenue for Drum Kits was 94600.
+On 19/04/2024, the revenue for Electric Guitars was 156630.
+On 19/04/2024, the revenue for Flutes was 113100.
+On 19/04/2024, the revenue for Guitar Pedals was 15280.
+On 19/04/2024, the revenue for Harmonicas was 4550.
+On 19/04/2024, the revenue for Keyboards was 89050.
+On 19/04/2024, the revenue for Live Sound Equipment was 134700.
+On 19/04/2024, the revenue for Microphones was 18820.
+On 19/04/2024, the revenue for MIDI Controllers was 61960.
+On 19/04/2024, the revenue for Music Production Software was 36297.
+On 19/04/2024, the revenue for Orchestral Strings was 11480.
+On 19/04/2024, the revenue for Percussion Accessories was 7340.
+On 19/04/2024, the revenue for Pianos was 0.
+On 19/04/2024, the revenue for Saxophones was 277900.
+On 19/04/2024, the revenue for Studio Monitors was 35350.
+On 19/04/2024, the revenue for Synthesizers was 115990.
+On 19/04/2024, the revenue for Trumpets was 77350.
+On 19/04/2024, the revenue for Ukuleles was 93335.
+On 19/04/2024, the revenue for Violins was 44540.
+On 20/04/2024, the revenue for Acoustic Drums was 222600.
+On 20/04/2024, the revenue for Acoustic Guitars was 45750.
+On 20/04/2024, the revenue for Audio Interfaces was 26700.
+On 20/04/2024, the revenue for Bass Guitars was 69950.
+On 20/04/2024, the revenue for Classical Guitars was 56120.
+On 20/04/2024, the revenue for Digital Pianos was 169400.
+On 20/04/2024, the revenue for DJ Equipment was 85050.
+On 20/04/2024, the revenue for Drum Kits was 96000.
+On 20/04/2024, the revenue for Electric Guitars was 106950.
+On 20/04/2024, the revenue for Flutes was 80300.
+On 20/04/2024, the revenue for Guitar Pedals was 26160.
+On 20/04/2024, the revenue for Harmonicas was 5513.
+On 20/04/2024, the revenue for Keyboards was 176600.
+On 20/04/2024, the revenue for Live Sound Equipment was 110850.
+On 20/04/2024, the revenue for Microphones was 45790.
+On 20/04/2024, the revenue for MIDI Controllers was 57810.
+On 20/04/2024, the revenue for Music Production Software was 31106.
+On 20/04/2024, the revenue for Orchestral Strings was 14600.
+On 20/04/2024, the revenue for Percussion Accessories was 8700.
+On 20/04/2024, the revenue for Pianos was 0.
+On 20/04/2024, the revenue for Saxophones was 184000.
+On 20/04/2024, the revenue for Studio Monitors was 19760.
+On 20/04/2024, the revenue for Synthesizers was 239090.
+On 20/04/2024, the revenue for Trumpets was 109250.
+On 20/04/2024, the revenue for Ukuleles was 67030.
+On 20/04/2024, the revenue for Violins was 28150.
+The Web Site company has resulted in 284790 euros in revenue.
+The Crescendo Corner Ltd. company has resulted in 277990 euros in revenue.
+The Symphony Supplies Inc. company has resulted in 272393 euros in revenue.
+The Tempo Treasures Ltd. company has resulted in 252129 euros in revenue.
+The Symphony Shop Ltd. company has resulted in 245906 euros in revenue.
+The Serenade Showroom Ltd. company has resulted in 231169 euros in revenue.
+The Crescendo Crafts Inc. company has resulted in 212580 euros in revenue.
+The Virtuoso Ventures Inc. company has resulted in 203830 euros in revenue.
+The Crescendo Collection Inc. company has resulted in 194755 euros in revenue.
+The MeloTune Traders Ltd. company has resulted in 193031 euros in revenue.
+The Melody Merchants Ltd. company has resulted in 192870 euros in revenue.
+The Harmony Haven Inc. company has resulted in 189110 euros in revenue.
+The Virtuoso Varieties Ltd. company has resulted in 176230 euros in revenue.
+The Symphony Select Ltd. company has resulted in 174708 euros in revenue.
+The Acoustic Avenues Ltd. company has resulted in 166390 euros in revenue.
+The Crescendo Cornerstone Inc. company has resulted in 164590 euros in revenue.
+The Serenade Selection Inc. company has resulted in 162580 euros in revenue.
+The Rhythmic Realm Inc. company has resulted in 162525 euros in revenue.
+The Melody Magic Inc. company has resulted in 162230 euros in revenue.
+The Virtuoso Ventures Ltd. company has resulted in 159150 euros in revenue.
+The Allegro Arcade Inc. company has resulted in 158486 euros in revenue.
+The Echo Emporium Ltd. company has resulted in 156874 euros in revenue.
+The Symphony Stockpile Ltd. company has resulted in 155492 euros in revenue.
+The MelodyWorks LLC company has resulted in 155410 euros in revenue.
+The Rhythmic Harmony Inc. company has resulted in 154730 euros in revenue.
+The Virtuoso Village Ltd. company has resulted in 154512 euros in revenue.
+The Crescendo Instruments Ltd. company has resulted in 153120 euros in revenue.
+The Tempo Trinkets Ltd. company has resulted in 149590 euros in revenue.
+The Serenade Selection Ltd. company has resulted in 148450 euros in revenue.
+The Melody Market Ltd. company has resulted in 147060 euros in revenue.
+The Allegro Avenue Ltd. company has resulted in 144070 euros in revenue.
+The Melody Mart Ltd. company has resulted in 143910 euros in revenue.
+The Harmony Hideout Ltd. company has resulted in 143095 euros in revenue.
+The Crescendo Cornerstone Ltd. company has resulted in 142140 euros in revenue.
+The Crescendo Collectibles Inc. company has resulted in 142060 euros in revenue.
+The Symphony Soundscapes Co. company has resulted in 141950 euros in revenue.
+The MeloSound Mall Inc. company has resulted in 141910 euros in revenue.
+The Harmonic Hues Ltd. company has resulted in 140130 euros in revenue.
+The Harmony Heaven Inc. company has resulted in 138074 euros in revenue.
+The Crescendo Cache Inc. company has resulted in 136850 euros in revenue.
+The Virtuoso Vault Ltd. company has resulted in 136370 euros in revenue.
+The Crescendo Creations LLC company has resulted in 133845 euros in revenue.
+The TempoTune Music Co. company has resulted in 133710 euros in revenue.
+The Harmonix Instruments LLC company has resulted in 133160 euros in revenue.
+The Harmony Haven Ltd. company has resulted in 133100 euros in revenue.
+The Rhythmic Reflections Ltd. company has resulted in 132250 euros in revenue.
+The Crescendo Creations Inc. company has resulted in 132010 euros in revenue.
+The Melody Magic Ltd. company has resulted in 131900 euros in revenue.
+The Serenade Store Ltd. company has resulted in 131840 euros in revenue.
+The MeloSound Showcase Ltd. company has resulted in 131390 euros in revenue.
+The Harmony Hub Inc. company has resulted in 127963 euros in revenue.
+The Echo Elegance Ltd. company has resulted in 127430 euros in revenue.
+The Acoustic Avenues Inc. company has resulted in 127430 euros in revenue.
+The Virtuoso Vault Inc. company has resulted in 126833 euros in revenue.
+The Symphony Stock Inc. company has resulted in 125400 euros in revenue.
+The Rhythmic Resonance Ltd. company has resulted in 125255 euros in revenue.
+The Serenade Showcase Ltd. company has resulted in 124530 euros in revenue.
+The Allegro Attune Inc. company has resulted in 124470 euros in revenue.
+The Virtuoso Varieties Inc. company has resulted in 122150 euros in revenue.
+The Acoustic Artistry Ltd. company has resulted in 120340 euros in revenue.
+The Serenade Splendor Inc. company has resulted in 119284 euros in revenue.
+The MeloTune Traders Inc. company has resulted in 117770 euros in revenue.
+The Tempo Trove Inc. company has resulted in 116677 euros in revenue.
+The Acoustic Aura LLC company has resulted in 116550 euros in revenue.
+The Harmony Hideaway Inc. company has resulted in 116530 euros in revenue.
+The Crescendo Collections Ltd. company has resulted in 114436 euros in revenue.
+The Symphony Stock Ltd. company has resulted in 113780 euros in revenue.
+The Crescendo Corner Inc. company has resulted in 112990 euros in revenue.
+The Rhythmic Retail Inc. company has resulted in 112600 euros in revenue.
+The Rhythmic Reverie Ltd. company has resulted in 112360 euros in revenue.
+The Serenade Splendor Ltd. company has resulted in 111100 euros in revenue.
+The Virtuoso Vibes Ltd. company has resulted in 110750 euros in revenue.
+The Melodic Muse Inc. company has resulted in 110590 euros in revenue.
+The Echo Ensembles Ltd. company has resulted in 107441 euros in revenue.
+The Allegro Artisan Inc. company has resulted in 105710 euros in revenue.
+The Tempo Trinkets Inc. company has resulted in 96880 euros in revenue.
+The Acoustic Artifacts Inc. company has resulted in 95680 euros in revenue.
+The Crescendo Crafts Ltd. company has resulted in 95555 euros in revenue.
+The Serenade Strings Ltd. company has resulted in 94240 euros in revenue.
+The Allegro Artisan Ltd. company has resulted in 92625 euros in revenue.
+The Melody Market Inc. company has resulted in 90406 euros in revenue.
+The Rhythmic Realm Ltd. company has resulted in 89270 euros in revenue.
+The Melodious Market Inc. company has resulted in 88910 euros in revenue.
+The Serenade Solutions Inc. company has resulted in 87644 euros in revenue.
+The Rhythmic Reverie Inc. company has resulted in 85795 euros in revenue.
+The Rhythmic Reflections Inc. company has resulted in 83000 euros in revenue.
+The Tempo Trove Ltd. company has resulted in 79880 euros in revenue.
+The Serenade Solutions Ltd. company has resulted in 78350 euros in revenue.
+The Echo Ensembles Inc. company has resulted in 77140 euros in revenue.
+The MeloSound Showcase Inc. company has resulted in 76650 euros in revenue.
+The MeloSound Instruments LLC company has resulted in 75380 euros in revenue.
+The Allegro Avenue Inc. company has resulted in 75350 euros in revenue.
+The product with Selmer Paris Reference 54 Alto description has resulted in 409500 euros in revenue this week.
+The product with Keilwerth SX90R description has resulted in 264000 euros in revenue this week.
+The product with Roland Fantom-8 description has resulted in 248500 euros in revenue this week.
+The product with Tama Starclassic Bubinga 5-Piece Shell Pack description has resulted in 245000 euros in revenue this week.
+The product with Music Man John Petrucci Majesty description has resulted in 240000 euros in revenue this week.
+The product with Nord Stage 3 Compact description has resulted in 227500 euros in revenue this week.
+The product with Nord Stage 3 88 description has resulted in 225000 euros in revenue this week.
+The product with Bach 180S37 Stradivarius Series Bb Trumpet description has resulted in 224000 euros in revenue this week.
+The product with Yanagisawa AWO10 Alto Sax description has resulted in 216000 euros in revenue this week.
+The product with Roland RD-2000 description has resulted in 207500 euros in revenue this week.
+The product with Korg Kronos 88 description has resulted in 192000 euros in revenue this week.
+The product with Gibson Les Paul Standard description has resulted in 177500 euros in revenue this week.
+The product with P. Mauriat PMXA-67R Alto Sax description has resulted in 177000 euros in revenue this week.
+The product with Korg Grandstage 88 description has resulted in 176000 euros in revenue this week.
+The product with Sonor SQ1 3-Piece Shell Pack description has resulted in 173600 euros in revenue this week.
+The product with Behringer X32 Digital Mixer description has resulted in 158400 euros in revenue this week.
+The product with Dave Smith Instruments OB-6 description has resulted in 156000 euros in revenue this week.
+The product with Yamaha Montage 8 description has resulted in 156000 euros in revenue this week.
+The product with Music Man StingRay 5 HH description has resulted in 154000 euros in revenue this week.
+The product with Allen & Heath QU-16C Digital Mixer description has resulted in 151300 euros in revenue this week.
+The product with Ludwig Vistalite John Bonham Zep Set description has resulted in 147200 euros in revenue this week.
+The product with Sequential Prophet-6 description has resulted in 142800 euros in revenue this week.
+The product with Martin D-28 Dreadnought Acoustic Guitar description has resulted in 138000 euros in revenue this week.
+The product with Selmer SAS280 La Voix II description has resulted in 132000 euros in revenue this week.
+The product with Cannonball Big Bell Stone Series description has resulted in 130000 euros in revenue this week.
+The product with Bose L1 Pro16 Portable Line Array System description has resulted in 127800 euros in revenue this week.
+The product with Teenage Engineering OP-1 description has resulted in 124800 euros in revenue this week.
+The product with DW Design Series 5-Piece Drum Kit description has resulted in 118500 euros in revenue this week.
+The product with Gibson J-45 Standard Acoustic-Electric Guitar description has resulted in 111600 euros in revenue this week.
+The product with Rickenbacker 4003 description has resulted in 110000 euros in revenue this week.
+The product with Roland System-8 description has resulted in 105000 euros in revenue this week.
+The product with Moog Sub 37 description has resulted in 105000 euros in revenue this week.
+The product with Gibson SG Standard Bass description has resulted in 103500 euros in revenue this week.
+The product with Novation Peak description has resulted in 102200 euros in revenue this week.
+The product with Fender American Ultra Precision Bass description has resulted in 100800 euros in revenue this week.
+The product with Denon DJ Prime 4 description has resulted in 99000 euros in revenue this week.
+The product with Allen & Heath Xone:PX5 description has resulted in 98000 euros in revenue this week.
+The product with Dave Smith Instruments Prophet Rev2 description has resulted in 96000 euros in revenue this week.
+The product with Di Zhao DZ-400 Flute description has resulted in 94800 euros in revenue this week.
+The product with Kremona Solea description has resulted in 90000 euros in revenue this week.
+The product with Yamaha Stage Custom Birch 5-Piece Shell Pack description has resulted in 87400 euros in revenue this week.
+The product with Fender American Professional Stratocaster description has resulted in 85400 euros in revenue this week.
+The product with Nord Lead A1 description has resulted in 84600 euros in revenue this week.
+The product with Taylor 214ce Deluxe Grand Auditorium Acoustic-Electric Guitar description has resulted in 84000 euros in revenue this week.
+The product with Anuenue aNN-900 Soprano Ukulele description has resulted in 76000 euros in revenue this week.
+The product with Kanile'a K-1 Concert Ukulele description has resulted in 74400 euros in revenue this week.
+The product with King 2055 Silver Flair Series Bb Trumpet description has resulted in 73500 euros in revenue this week.
+The product with Gemeinhardt 3OB Flute description has resulted in 73000 euros in revenue this week.
+The product with Gemeinhardt Model 3 Flute description has resulted in 72600 euros in revenue this week.
+The product with Pioneer DJ DJM-S9 description has resulted in 72000 euros in revenue this week.
+The product with Getzen 390 Series Student Bb Trumpet description has resulted in 72000 euros in revenue this week.
+The product with AKG C414 XLII description has resulted in 71500 euros in revenue this week.
+The product with Yamaha YDP-144 Arius description has resulted in 71500 euros in revenue this week.
+The product with DW Design Series Frequent Flyer Kit description has resulted in 70800 euros in revenue this week.
+The product with Yamaha MODX6 description has resulted in 67600 euros in revenue this week.
+The product with Gretsch Catalina Club Jazz 4-Piece Shell Pack description has resulted in 67200 euros in revenue this week.
+The product with Kamaka HF-1 Standard Soprano Ukulele description has resulted in 67200 euros in revenue this week.
+The product with Yamaha YAS-280 Alto Saxophone description has resulted in 67200 euros in revenue this week.
+The product with Ibanez RG550 description has resulted in 66600 euros in revenue this week.
+The product with Pioneer DJ DDJ-1000 4-channel controller description has resulted in 66000 euros in revenue this week.
+The product with Tama Imperialstar 6-Piece Drum Set with Cymbals description has resulted in 65600 euros in revenue this week.
+The product with KoAloha KSM-00 Soprano Ukulele description has resulted in 64900 euros in revenue this week.
+The product with Zildjian A Custom Cymbal Pack description has resulted in 63900 euros in revenue this week.
+The product with Gretsch Catalina Maple 7-Piece Drum Kit description has resulted in 63600 euros in revenue this week.
+The product with Jupiter JAS700 Alto Saxophone description has resulted in 62000 euros in revenue this week.
+The product with Azumi AZ2SRBO Intermediate Flute description has resulted in 60800 euros in revenue this week.
+The product with Yamaha YTR-2330 Standard Bb Trumpet description has resulted in 60200 euros in revenue this week.
+The product with Sabian HHX Evolution Performance Set description has resulted in 59400 euros in revenue this week.
+The product with Moog Grandmother description has resulted in 59400 euros in revenue this week.
+The product with Roli Seaboard Rise 49 description has resulted in 58650 euros in revenue this week.
+The product with PDP by DW 7-Piece Concept Maple Shell Pack description has resulted in 57000 euros in revenue this week.
+The product with Universal Audio Apollo Twin X description has resulted in 55800 euros in revenue this week.
+The product with Novation SL MkIII 61 description has resulted in 54600 euros in revenue this week.
+The product with Trevor James 10X Flute description has resulted in 54000 euros in revenue this week.
+The product with Casio Privia PX-770 description has resulted in 52500 euros in revenue this week.
+The product with Dave Smith Instruments Mopho x4 description has resulted in 52200 euros in revenue this week.
+The product with Behringer DeepMind 12 description has resulted in 51200 euros in revenue this week.
+The product with Roland JUNO-DS61 description has resulted in 50400 euros in revenue this week.
+The product with Ableton Live 11 Suite description has resulted in 50250 euros in revenue this week.
+The product with Roland DJ-505 DJ Controller description has resulted in 49700 euros in revenue this week.
+The product with Holton T602 Student Bb Trumpet description has resulted in 48600 euros in revenue this week.
+The product with Sennheiser EW 500 G4 Handheld Wireless System description has resulted in 48000 euros in revenue this week.
+The product with PRS SE Custom 24 description has resulted in 47600 euros in revenue this week.
+The product with Neumann TLM 103 description has resulted in 46800 euros in revenue this week.
+The product with Jupiter JTR700 Standard Series Student Bb Trumpet description has resulted in 46400 euros in revenue this week.
+The product with Besson BE1000 Performance Series Bb Trumpet description has resulted in 45600 euros in revenue this week.
+The product with Fender FV-1 Electric Violin description has resulted in 44400 euros in revenue this week.
+The product with Arturia KeyLab 88 MKII description has resulted in 44100 euros in revenue this week.
+The product with Yamaha YFL-222 Intermediate Flute description has resulted in 44000 euros in revenue this week.
+The product with Pearl Export EXX 5-Piece Drum Set description has resulted in 43400 euros in revenue this week.
+The product with Kremona V1 Artist Violin description has resulted in 42400 euros in revenue this week.
+The product with Native Instruments Traktor Kontrol S3 description has resulted in 42250 euros in revenue this week.
+The product with Pearl Roadshow 5-Piece Drum Set description has resulted in 42000 euros in revenue this week.
+The product with Conn 52BSP CONNstellation Series Bb Trumpet description has resulted in 42000 euros in revenue this week.
+The product with Ovation Celebrity Elite Plus Acoustic-Electric Guitar description has resulted in 42000 euros in revenue this week.
+The product with QSC K12.2 Active Loudspeaker description has resulted in 41600 euros in revenue this week.
+The product with Traktor Kontrol Z2 description has resulted in 39600 euros in revenue this week.
+The product with Reloop Mixon 4 DJ Controller description has resulted in 39200 euros in revenue this week.
+The product with Martin S1 Uke Soprano Ukulele description has resulted in 38250 euros in revenue this week.
+The product with ESP LTD EC-1000 description has resulted in 37800 euros in revenue this week.
+The product with Epiphone Thunderbird Classic-IV PRO description has resulted in 37800 euros in revenue this week.
+The product with Yamaha P-125 description has resulted in 37700 euros in revenue this week.
+The product with Warwick Rockbass Corvette Basic description has resulted in 37600 euros in revenue this week.
+The product with Taylor Academy 12-N description has resulted in 37050 euros in revenue this week.
+The product with JBL EON615 Portable PA Speaker description has resulted in 37000 euros in revenue this week.
+The product with Schecter Hellraiser C-1 description has resulted in 36800 euros in revenue this week.
+The product with Avid Pro Tools description has resulted in 36539 euros in revenue this week.
+The product with Roland FP-30 description has resulted in 36400 euros in revenue this week.
+The product with Korg B2 description has resulted in 36000 euros in revenue this week.
+The product with Pearl Quantz 505RE Flute description has resulted in 35700 euros in revenue this week.
+The product with Rogers Dyna-Sonic Snare Drum description has resulted in 34500 euros in revenue this week.
+The product with Yamaha HS8 description has resulted in 34410 euros in revenue this week.
+The product with Yamaha FG830 Solid Top Acoustic Guitar description has resulted in 33600 euros in revenue this week.
+The product with Shure BLX288/PG58 Wireless System description has resulted in 33550 euros in revenue this week.
+The product with Jupiter JFL710 Student Flute description has resulted in 32400 euros in revenue this week.
+The product with Meinl Cymbals HCS-SCS1 Ultimate Cymbal Set description has resulted in 32000 euros in revenue this week.
+The product with Casio Privia PX-160 description has resulted in 32000 euros in revenue this week.
+The product with Tama Imperialstar 5-Piece Drum Set with Meinl HCS Cymbals description has resulted in 31500 euros in revenue this week.
+The product with Teenage Engineering OP-Z description has resulted in 31200 euros in revenue this week.
+The product with Arturia KeyStep Pro description has resulted in 30800 euros in revenue this week.
+The product with Steinberg Cubase Pro description has resulted in 30160 euros in revenue this week.
+The product with Kawai ES110 description has resulted in 30100 euros in revenue this week.
+The product with Cordoba C5 Classical Guitar description has resulted in 29400 euros in revenue this week.
+The product with DW 9000 Series Double Bass Pedal description has resulted in 29400 euros in revenue this week.
+The product with Mapex Black Panther Blaster Snare Drum description has resulted in 29260 euros in revenue this week.
+The product with Novation Bass Station II description has resulted in 29240 euros in revenue this week.
+The product with Ludwig Breakbeats by Questlove 4-Piece Kit description has resulted in 28800 euros in revenue this week.
+The product with Schecter Stiletto Studio-5 description has resulted in 28800 euros in revenue this week.
+The product with Jean Paul USA AS-400 Student Alto description has resulted in 28500 euros in revenue this week.
+The product with Electro-Voice ELX200-10P Powered Speaker description has resulted in 28400 euros in revenue this week.
+The product with Presonus Studio One 5 Professional description has resulted in 28400 euros in revenue this week.
+The product with Yamaha V5SC Violin description has resulted in 27900 euros in revenue this week.
+The product with Mapex Armory 6-Piece Studioease Shell Pack description has resulted in 27900 euros in revenue this week.
+The product with Cremona SV-175 Premier Student Violin description has resulted in 27300 euros in revenue this week.
+The product with Pono MCD Concert Ukulele description has resulted in 27200 euros in revenue this week.
+The product with Strymon BigSky Reverberator description has resulted in 26880 euros in revenue this week.
+The product with Arturia MiniBrute 2 description has resulted in 26500 euros in revenue this week.
+The product with Moog Mother-32 description has resulted in 26400 euros in revenue this week.
+The product with Epiphone Les Paul Studio description has resulted in 26100 euros in revenue this week.
+The product with Yamaha MX49 Music Synthesizer description has resulted in 26000 euros in revenue this week.
+The product with Arturia MicroBrute description has resulted in 25550 euros in revenue this week.
+The product with Genelec 8010A description has resulted in 25550 euros in revenue this week.
+The product with Ludwig Black Magic Snare Drum description has resulted in 24400 euros in revenue this week.
+The product with Ibanez SR505E description has resulted in 24000 euros in revenue this week.
+The product with Korg Minilogue description has resulted in 24000 euros in revenue this week.
+The product with Yamaha TRBX304 description has resulted in 23800 euros in revenue this week.
+The product with Roland JD-Xi description has resulted in 23500 euros in revenue this week.
+The product with Electro-Voice RE20 description has resulted in 23400 euros in revenue this week.
+The product with Chase Bliss Audio Mood description has resulted in 23100 euros in revenue this week.
+The product with La Patrie Etude description has resulted in 22800 euros in revenue this week.
+The product with Kaizer ASAX-1000LQ description has resulted in 22800 euros in revenue this week.
+The product with Mapex Mars 600 Series Hardware Pack description has resulted in 22750 euros in revenue this week.
+The product with Waldorf Blofeld description has resulted in 22500 euros in revenue this week.
+The product with Zoom H6 Handy Recorder description has resulted in 22400 euros in revenue this week.
+The product with Sennheiser MD421 II description has resulted in 22000 euros in revenue this week.
+The product with Roland A-500PRO-R description has resulted in 21900 euros in revenue this week.
+The product with Mackie Thump15A Powered Loudspeaker description has resulted in 21700 euros in revenue this week.
+The product with Dixon Gregg Bissonette Signature Steel Snare description has resulted in 21250 euros in revenue this week.
+The product with Adam Audio A7X description has resulted in 21000 euros in revenue this week.
+The product with Focal Alpha 50 description has resulted in 21000 euros in revenue this week.
+The product with Alhambra 1C description has resulted in 21000 euros in revenue this week.
+The product with Akai MPK249 description has resulted in 20800 euros in revenue this week.
+The product with Rode NT1-A description has resulted in 20750 euros in revenue this week.
+The product with Larsen Magnacore Cello Strings description has resulted in 20700 euros in revenue this week.
+The product with Bitwig Studio description has resulted in 20349 euros in revenue this week.
+The product with Alvarez Artist Series AF30 Folk Acoustic Guitar description has resulted in 19800 euros in revenue this week.
+The product with EarthQuaker Devices Avalanche Run description has resulted in 19500 euros in revenue this week.
+The product with Line 6 DL4 Delay Modeler description has resulted in 19250 euros in revenue this week.
+The product with Thomastik-Infeld Spirocore Double Bass Strings description has resulted in 19000 euros in revenue this week.
+The product with Korg Monologue description has resulted in 18000 euros in revenue this week.
+The product with Native Instruments Komplete Audio 6 description has resulted in 17750 euros in revenue this week.
+The product with Sonor AQ2 Safari 4-Piece Drum Set description has resulted in 17500 euros in revenue this week.
+The product with Ibanez AW54OPN Artwood Dreadnought Acoustic Guitar description has resulted in 17500 euros in revenue this week.
+The product with JBL LSR305 description has resulted in 17400 euros in revenue this week.
+The product with Alesis Recital Pro description has resulted in 17150 euros in revenue this week.
+The product with Pearl Sensitone Premium Snare Drum description has resulted in 17100 euros in revenue this week.
+The product with Seagull S6 Original Acoustic Guitar description has resulted in 16650 euros in revenue this week.
+The product with Logic Pro X description has resulted in 16600 euros in revenue this week.
+The product with Numark Mixtrack Pro FX description has resulted in 16000 euros in revenue this week.
+The product with M-Audio Oxygen Pro 49 description has resulted in 15640 euros in revenue this week.
+The product with Gibraltar 6700-PK Hardware Pack description has resulted in 15300 euros in revenue this week.
+The product with Fender CN-60S description has resulted in 14950 euros in revenue this week.
+The product with Franz Hoffmann Amadeus Violin description has resulted in 14800 euros in revenue this week.
+The product with Jargar Superior Cello String Set description has resulted in 14250 euros in revenue this week.
+The product with Squier Affinity Jazz Bass description has resulted in 14100 euros in revenue this week.
+The product with Yamaha Pacifica 112V description has resulted in 13200 euros in revenue this week.
+The product with DJ TechTools Midi Fighter 64 description has resulted in 12980 euros in revenue this week.
+The product with Yamaha Reface CS description has resulted in 12800 euros in revenue this week.
+The product with TASCAM DR-40X description has resulted in 12600 euros in revenue this week.
+The product with Digitech Whammy description has resulted in 12600 euros in revenue this week.
+The product with Propellerhead Reason description has resulted in 12369 euros in revenue this week.
+The product with Ibanez GA5TCE Classical Guitar description has resulted in 12300 euros in revenue this week.
+The product with Behringer MOTOR 61 description has resulted in 12300 euros in revenue this week.
+The product with FL Studio Producer Edition description has resulted in 12139 euros in revenue this week.
+The product with Squier Affinity Telecaster description has resulted in 11960 euros in revenue this week.
+The product with CME Xkey 37 LE Ultra-Portable description has resulted in 11800 euros in revenue this week.
+The product with Alesis VI49 description has resulted in 11500 euros in revenue this week.
+The product with Washburn C5CE Classical Guitar description has resulted in 11250 euros in revenue this week.
+The product with Nektar Impact LX49+ description has resulted in 10880 euros in revenue this week.
+The product with Behringer NEKKST K5 description has resulted in 10800 euros in revenue this week.
+The product with TASCAM US-4x4 description has resulted in 10800 euros in revenue this week.
+The product with Focusrite Scarlett 2i2 description has resulted in 10710 euros in revenue this week.
+The product with D'Addario Helicore Double Bass Strings description has resulted in 10600 euros in revenue this week.
+The product with Bunnel Pupil Violin description has resulted in 10600 euros in revenue this week.
+The product with KRK Rokit 5 G4 description has resulted in 10500 euros in revenue this week.
+The product with Ibanez UEW15E Concert Ukulele description has resulted in 10200 euros in revenue this week.
+The product with Gretsch G9120 Tenor Standard Ukulele description has resulted in 10030 euros in revenue this week.
+The product with Fender CD-60S Dreadnought Acoustic Guitar description has resulted in 10000 euros in revenue this week.
+The product with Native Instruments Komplete Kontrol M32 description has resulted in 9940 euros in revenue this week.
+The product with Epiphone DR-100 Acoustic Guitar description has resulted in 9900 euros in revenue this week.
+The product with Yamaha C40II Classical Guitar description has resulted in 9900 euros in revenue this week.
+The product with Yamaha MG10XU Mixer description has resulted in 9800 euros in revenue this week.
+The product with Eastar EFL-1 Closed Hole Flutes description has resulted in 9800 euros in revenue this week.
+The product with Giannini GN-15 description has resulted in 9600 euros in revenue this week.
+The product with MOTU M2 description has resulted in 9600 euros in revenue this week.
+The product with MXR M169 Carbon Copy Analog Delay description has resulted in 9450 euros in revenue this week.
+The product with M-Audio BX5 D3 description has resulted in 9450 euros in revenue this week.
+The product with Steinberg UR22C description has resulted in 9120 euros in revenue this week.
+The product with Novation Launchkey Mini MK3 description has resulted in 8580 euros in revenue this week.
+The product with Jean Paul USA Silver-Plated Flute FL-220 description has resulted in 8400 euros in revenue this week.
+The product with Cecilio CEVN-2BK Electric Violin description has resulted in 8400 euros in revenue this week.
+The product with Pirastro Obligato Viola Strings description has resulted in 8280 euros in revenue this week.
+The product with Yamaha GL1 Guitalele description has resulted in 8200 euros in revenue this week.
+The product with Jean Paul USA TR-330 Standard Student Trumpet description has resulted in 8200 euros in revenue this week.
+The product with Blue Yeti USB Microphone description has resulted in 7930 euros in revenue this week.
+The product with Oscar Schmidt OU5 Concert Ukulele description has resulted in 7920 euros in revenue this week.
+The product with Solista Cello Strings by Larsen description has resulted in 7920 euros in revenue this week.
+The product with PreSonus AudioBox USB 96 description has resulted in 7900 euros in revenue this week.
+The product with Tama Iron Cobra 200 Pedal description has resulted in 7830 euros in revenue this week.
+The product with Audio-Technica AT2020 description has resulted in 7650 euros in revenue this week.
+The product with Mendini by Cecilio Gold Trumpet description has resulted in 7500 euros in revenue this week.
+The product with M-Audio Oxygen 49 MKIV description has resulted in 7350 euros in revenue this week.
+The product with IK Multimedia iRig Keys 37 Pro description has resulted in 7200 euros in revenue this week.
+The product with Cecilio CVN-300 Ebony Fitted Violin description has resulted in 7150 euros in revenue this week.
+The product with Pirastro Evah Pirazzi Gold Violin String Set description has resulted in 6960 euros in revenue this week.
+The product with Cordoba 15CM Concert Ukulele description has resulted in 6840 euros in revenue this week.
+The product with Behringer UMC404HD description has resulted in 6750 euros in revenue this week.
+The product with Arturia MiniLab MkII description has resulted in 6710 euros in revenue this week.
+The product with PreSonus Eris E3.5 description has resulted in 6700 euros in revenue this week.
+The product with Akai MPK Mini MKIII description has resulted in 6700 euros in revenue this week.
+The product with Dunlop Cry Baby Wah description has resulted in 6600 euros in revenue this week.
+The product with Stentor Student II Violin description has resulted in 6500 euros in revenue this week.
+The product with TC Electronic Hall of Fame Reverb description has resulted in 6450 euros in revenue this week.
+The product with IK Multimedia iRig HD 2 description has resulted in 6200 euros in revenue this week.
+The product with Seydel 1847 Silver Harmonica description has resulted in 6000 euros in revenue this week.
+The product with Korg microKEY2-37 description has resulted in 5670 euros in revenue this week.
+The product with Thomastik-Infeld Dominant Violin Strings description has resulted in 5400 euros in revenue this week.
+The product with Shure SM58 description has resulted in 5100 euros in revenue this week.
+The product with M-Audio AIR 192|6 description has resulted in 5100 euros in revenue this week.
+The product with Hering Vintage Harp description has resulted in 5040 euros in revenue this week.
+The product with Numark Party Mix description has resulted in 4800 euros in revenue this week.
+The product with Amahi UK660 Pineapple Ukulele description has resulted in 4760 euros in revenue this week.
+The product with Warchal Karneol Violin Strings description has resulted in 4720 euros in revenue this week.
+The product with Suzuki Promaster Hammond description has resulted in 4640 euros in revenue this week.
+The product with Fender Venice Soprano Ukulele description has resulted in 4200 euros in revenue this week.
+The product with Mackie CR3 description has resulted in 4200 euros in revenue this week.
+The product with Kala KA-15S Mahogany Soprano Ukulele description has resulted in 4130 euros in revenue this week.
+The product with Flight NUS310 Soprano Ukulele description has resulted in 4080 euros in revenue this week.
+The product with Boss DS-1 Distortion description has resulted in 3850 euros in revenue this week.
+The product with Bushman Delta Frost description has resulted in 3800 euros in revenue this week.
+The product with D'Addario Prelude Violin String Set description has resulted in 3760 euros in revenue this week.
+The product with Pearl D50 Drum Throne description has resulted in 3660 euros in revenue this week.
+The product with Lanikai LU-21 Soprano Ukulele description has resulted in 3240 euros in revenue this week.
+The product with Evans EMAD2 Clear Bass Drum Head description has resulted in 3050 euros in revenue this week.
+The product with Suzuki Manji M-20 description has resulted in 3050 euros in revenue this week.
+The product with Lee Oskar Major Diatonic Harmonica description has resulted in 2880 euros in revenue this week.
+The product with Cockos REAPER description has resulted in 2520 euros in revenue this week.
+The product with Hohner Special 20 Harmonica description has resulted in 2520 euros in revenue this week.
+The product with Electro-Harmonix Big Muff Pi description has resulted in 2480 euros in revenue this week.
+The product with Remo Ambassador Coated Drum Head description has resulted in 2480 euros in revenue this week.
+The product with Luna Tattoo Concert Mahogany Ukulele description has resulted in 2000 euros in revenue this week.
+The product with Kalani Kal 200 Soprano Ukulele description has resulted in 1800 euros in revenue this week.
+The product with EastTop T008K description has resulted in 1710 euros in revenue this week.
+The product with Latin Percussion LP1207 Jam Block description has resulted in 1680 euros in revenue this week.
+The product with Samson Carbon 49 USB MIDI Controller description has resulted in 1680 euros in revenue this week.
+The product with Mahalo Rainbow Series Soprano Ukulele description has resulted in 1280 euros in revenue this week.
+The product with Waltons Irish Black Harmonica description has resulted in 1100 euros in revenue this week.
+The product with Aquila New Nylgut Soprano Ukulele Strings description has resulted in 580 euros in revenue this week.
+The product with Zildjian Drumsticks description has resulted in 500 euros in revenue this week.
+The product with Fender Blues Deluxe Harmonica description has resulted in 492 euros in revenue this week.
+The product with Vic Firth American Classic 5A Drumsticks description has resulted in 490 euros in revenue this week.
+Online Retailers had 520 orders and 3683 order lines.The quantity in pieces was 5160, and the quantity in boxes was 746.The total amount for Online Retailers was 3642673 with a fulfillment rate of 98%.
+Retail Stores had 1170 orders and 4150 order lines.The quantity in pieces was 4632, and the quantity in boxes was 667.The total amount for Retail Stores was 3513708 with a fulfillment rate of 97%.
+Web Site had 270 orders and 350 order lines.The quantity in pieces was 396, and the quantity in boxes was 56.The total amount for Web Site was 284790 with a fulfillment rate of 99%.
+Wholesalers had 355 orders and 5100 order lines.The quantity in pieces was 6783, and the quantity in boxes was 956.The total amount for Wholesalers was 5328397 with a fulfillment rate of 96%.
+The debit of the week is 300000.
+The credit of the week is 450000.
+The balance of the week is 150000.
+The inflows forecast of the week is 15000000.
+The outflows forecast of the week is 9000000.
+The projected balance of the week is 23850000.
