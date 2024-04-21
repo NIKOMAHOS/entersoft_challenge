@@ -61,11 +61,11 @@
             }
 
             .bottom {
-            display: block;
-            align-items: center;
-            padding: 10px;
-            position: fixed;
-            bottom: 0%;
+                display: block;
+                align-items: center;
+                padding: 10px;
+                position: fixed;
+                bottom: 0%;
             }
 
             #userinput {
@@ -137,6 +137,22 @@
             #sendbutton:disabled {
                 opacity: 0.6;
             }
+
+            #startButton{
+                background-color: #3498db;
+                color: #ffffff;
+                padding: 10px;
+                border: none;
+                border-radius: 5px;
+                font-size: 16px;
+                cursor: pointer;
+                transition: background-color 0.3s;
+                width: 80px;
+            }
+
+            #startButton:hover {
+                background-color: #2980b9;
+            }
         </style>
     </head>
     <body>
@@ -157,13 +173,12 @@
                      <form id="userinputform">
                         <textarea id="userinput" rows="2"
                             placeholder="Your message..." required></textarea>
-                        <button id="startButton">Start Voice Input</button>
+                        <button id="startButton">Start</button>
                         <button type="submit"
                             id="sendbutton">
                             <img src="https://t4.ftcdn.net/jpg/02/12/48/33/360_F_212483331_QYVyzmzR7uXcpw21pIfIEQxiAxaRCtvT.jpg" width="40px" hight="40px">
                         </button>
                     </form>
-                    <div id="output"></div>
                 </div>
             </div>
         </div>
@@ -196,7 +211,7 @@
             };
 
             recognition.onend = () => {
-                startButton.textContent = 'Start Voice Input';
+                startButton.textContent = 'Start';
             };
 
             startButton.addEventListener('click', () => {
@@ -207,14 +222,16 @@
                 }
             });
 
-
+            /**
+             * Makes the chatbot speak
+             * */
             function speak(message) {
                 // Create a SpeechSynthesisUtterance
                 const utterance = new SpeechSynthesisUtterance(message);
 
                 // Select a voice
                 const voices = speechSynthesis.getVoices();
-                utterance.voice = voices[1]; // Choose a specific voice
+                utterance.voice = voices[0]; // Choose a specific voice
 
                 // Speak the text
                 speechSynthesis.speak(utterance);
