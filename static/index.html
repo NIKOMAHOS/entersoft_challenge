@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <!--------------------------------------------------title-------------------------------------------------->
+        <title>Entersoft AI Assistant</title>
+        <!------------------------------------------------meta-tags------------------------------------------------>
+        <meta charset = "UTF-8">
+        <meta name = "description" content = "">
+        <meta name = "keywords" content = "">
+        <meta name = "author" content = "Eleni Kechrioti, Maria Schoinaki, Ippokratis Pantelidis, Nikos Mitsakis, Vasilis Avgerakis">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="static/styles/style.css">
+
+        <title>Entersoft AI Assistant</title>
+
+        <style>
+            body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            }
+
+            header {
+            background-color: #4788ae;
+            padding: 20px;
+            text-align: center;
+            }
+
+            header img {
+            max-width: 100%;
+            }
+
+            .container {
+            height: 95%;
+            margin: 20px;
+            padding: 20px;
+            position: relative;
+            bottom: 0px;
+            align-items: center;
+            }
+
+            .box {
+            display: flex;
+            flex-direction: column;
+            height: 100%; 
+            overflow-y: auto;
+            align-items: center;
+            }
+
+            #upperid {
+                max-height: 100%;
+                padding-top: 40px;
+                padding-bottom: 170px;
+                overflow: auto;
+            }
+
+            .bottom {
+            display: block;
+            align-items: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0%;
+            }
+
+            #userinput {
+            flex: 1;
+            padding: 10px;
+            margin-right: 10px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: none;
+            width: 600px;
+            }
+
+            #sendbutton {
+            background-color: #ffffff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            }
+
+            #sendbutton:hover {
+            background-color: #fefefe;
+            }
+
+            .message {
+            margin-bottom: 10px;
+            }
+
+            .usermessagediv {
+            text-align: right;
+            }
+
+            .usermessage {
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px;
+            border-radius: 4px;
+            display: inline-block;
+            max-width: 70%;
+            }
+
+            .chatbotMessagediv {
+            text-align: left;
+            }
+
+            .chatbotMessage {
+            background-color: #f1f0f0;
+            color: #333;
+            padding: 10px;
+            border-radius: 4px;
+            display: inline-block;
+            max-width: 70%;
+            }
+
+            .m {
+            color: #999;
+            font-size: 12px;
+            display: grid;
+            grid-template-columns: 1fr;
+            }
+
+            .upper::-webkit-scrollbar, .container::-webkit-scrollbar {
+                width: 0;
+            }
+
+            #sendbutton:disabled {
+                opacity: 0.6;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <a href="#" class="flex items-center">
+                <img src="https://www.entersoft.eu/wp-content/uploads/2017/05/EntersoftLogo_BlackLetters.svg" width="30%"
+                    alt="Logo" />
+            </a>
+        </header>
+
+        <div class="container">
+            <div class="box">
+                <div id="upperid">
+                    <span class="m">Type your message in box below.</span>
+                </div>
+    
+                <div class="bottom">
+                     <form id="userinputform">
+                        <textarea id="userinput" rows="2"
+                            placeholder="Your message..." required></textarea>
+                        <button type="submit"
+                            id="sendbutton">
+                            <img src="https://t4.ftcdn.net/jpg/02/12/48/33/360_F_212483331_QYVyzmzR7uXcpw21pIfIEQxiAxaRCtvT.jpg" width="40px" hight="40px">
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    
+    
+        <script>
+            /**
+             * Scrolls automatically to the bottom of the screen
+             */
+            function scrollToBottom() {
+                var div = document.getElementById("upperid");
+                div.scrollTop = div.scrollHeight;
+            }
+            scrollToBottom()
+    
+            /**
+             * Sends the user input after the user press the send button
+             */
+            document.getElementById("userinputform").addEventListener("submit", function (event) {
+                event.preventDefault();
+                formsubmitted();
+            });
+
+            /**
+             * Sends the user input after the user press enter
+             */
+            document.getElementById("userinputform").addEventListener("keydown", function (event) {
+            console.log("Key pressed:", event.key);
+            if (event.key === "Enter") {
+                event.preventDefault(); // Prevent form submission
+                console.log("Key pressed:", event.key);
+                formsubmitted();
+            }
+            });
+    
+            /**
+             * Sends the user input to the python server
+             */
+            const formsubmitted = async () => {
+                let userinput = document.getElementById('userinput').value
+                let sendbutton = document.getElementById('sendbutton')
+                let userinputarea = document.getElementById('userinput')
+                let upperdiv = document.getElementById('upperid')
+               
+    
+                upperdiv.innerHTML = upperdiv.innerHTML + 
+                `<div class="message">
+                    <div class="usermessagediv">
+                            <div class="usermessage">
+                                ${userinput}
+                            </div>
+                    </div>
+                </div>`
+
+                sendbutton.disabled = true
+                userinputarea.disabled = true
+                scrollToBottom()
+                document.getElementById('userinput').value = ""
+                document.getElementById('userinput').placeholder = "Wait . . ."
+    
+                const response = await fetch("http://127.0.0.1:5000/process", {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ prompt: userinput })
+    
+    
+                });
+                let json = await response.json();
+    
+                document.getElementById('userinput').placeholder = "Your message..."
+       
+    
+                if (json.response) {
+                    let message = json.message
+                    message = message.toString()
+          
+                    upperdiv.innerHTML = upperdiv.innerHTML + 
+                    `<div class="message">
+                        <div class="chatbotMessagediv">
+                            <div class="chatbotMessage" id="chatbot_response">
+                            </div>
+                        </div>
+                    </div>`
+
+                    let chatbot_response = document.getElementById('chatbot_response')
+                    let index = 0
+
+                    /**
+                     * Displays  each character of the bot's response one by one, 
+                     * with a short delay between each to simulate typing.
+                     */
+                    function displayNextLetter() {
+                        scrollToBottom()
+                        if (index < message.length) {
+                            chatbot_response.innerHTML = chatbot_response.innerHTML + message[index];
+                            index++;
+                            setTimeout(displayNextLetter, 30);
+                        } else {
+                            chatbot_response.removeAttribute('id')
+                            sendbutton.disabled = false
+                            userinputarea.disabled = false
+                        }
+                    }
+                    displayNextLetter()
+                    scrollToBottom()
+    
+                }
+                else {
+                    let message = json.message
+                    upperdiv.innerHTML = upperdiv.innerHTML +
+                        `<div class="message">
+                            <div class="chatbotMessagediv">
+                                <div class="chatbotMessage"  style="border: 1px solid red;">
+                                    ${message}
+                                </div>
+                            </div>
+                        </div>`
+                    
+                    sendbutton.disabled = false
+                    userinputarea.disabled = false
+                }
+                scrollToBottom()
+            } 
+        </script>
+    </body>
+</html>
