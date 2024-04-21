@@ -15,7 +15,6 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="static/styles/style.css">
 
         <title>Entersoft AI Assistant</title>
 
@@ -158,17 +157,69 @@
                      <form id="userinputform">
                         <textarea id="userinput" rows="2"
                             placeholder="Your message..." required></textarea>
+                        <button id="startButton">Start Voice Input</button>
                         <button type="submit"
                             id="sendbutton">
                             <img src="https://t4.ftcdn.net/jpg/02/12/48/33/360_F_212483331_QYVyzmzR7uXcpw21pIfIEQxiAxaRCtvT.jpg" width="40px" hight="40px">
                         </button>
                     </form>
+                    <div id="output"></div>
                 </div>
             </div>
         </div>
     
     
         <script>
+
+            const startButton = document.getElementById('startButton');
+            const outputDiv = document.getElementById('userinput');
+            let talk = false;
+
+            const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition || window.mozSpeechRecognition || window.msSpeechRecognition)();
+            recognition.lang = 'en-US';
+
+            recognition.onstart = () => {
+                startButton.textContent = 'Listening...';
+            };
+
+            recognition.onresult = (event) => {
+                outputDiv.value='';
+                console.log("heyyy");
+                let transcript ='';
+                for (const result of event.results) {
+                    console.log(result[0].transcript);
+                    transcript += result[0].transcript + ' ';
+                }
+                outputDiv.value = transcript;
+                console.log("opppp " + outputDiv.value);
+                talk = true;
+            };
+
+            recognition.onend = () => {
+                startButton.textContent = 'Start Voice Input';
+            };
+
+            startButton.addEventListener('click', () => {
+                if (recognition.running) {
+                    recognition.stop(); // Stop recognition if already running
+                } else {
+                    recognition.start(); // Start recognition if not running
+                }
+            });
+
+
+            function speak(message) {
+                // Create a SpeechSynthesisUtterance
+                const utterance = new SpeechSynthesisUtterance(message);
+
+                // Select a voice
+                const voices = speechSynthesis.getVoices();
+                utterance.voice = voices[1]; // Choose a specific voice
+
+                // Speak the text
+                speechSynthesis.speak(utterance);
+            }
+
             /**
              * Scrolls automatically to the bottom of the screen
              */
@@ -270,7 +321,10 @@
                     }
                     displayNextLetter()
                     scrollToBottom()
-    
+                    if(talk){
+                        speak(message);
+                    }
+                    talk = false;
                 }
                 else {
                     let message = json.message
