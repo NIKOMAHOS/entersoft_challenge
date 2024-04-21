@@ -1,11 +1,12 @@
 from flask import Flask, render_template, request, jsonify
-from sol import *
+from ipynb.fs.full.sol import *
 app = Flask(__name__,  template_folder='../static')
 
 
 
 def get_res(prompt):
-    response = get_responce(prompt)
+    response = get_response(prompt)
+    print(response)
     return response.text
 
 
@@ -16,6 +17,7 @@ def home():
 @app.route('/process', methods=['POST'])
 def get_bot_response():   
     data = request.get_json()
+    print(data)
     text = data.get('prompt') 
     user_input = text
     output = get_res(user_input)
