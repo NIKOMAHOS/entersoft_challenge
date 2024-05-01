@@ -1,11 +1,14 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, jsonify, render_template, request
 from ipynb.fs.full.sol import *
+
+from sol import get_responce
+
 app = Flask(__name__,  template_folder='../static')
 
 
 
 def get_res(prompt):
-    response = get_response(prompt)
+    response = get_responce(prompt)
     print(response)
     return response.text
 
