@@ -1,7 +1,5 @@
 # Entersoft Challenge
 
-*AI-Powered Chatbot for Natural Language Database Queries*
-
 ## Overview
 
 This project is a chatbot developed for the Entersoft Challenge during [Makeathon 2024](https://uniai.gr/makeathon-2024/). It enables company managers to interact with an SQL database (ERP system) using natural language queries. The chatbot interprets user inputs, converts them into SQL queries, retrieves the relevant data, and responds in a human-readable format.
